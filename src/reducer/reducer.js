@@ -1,7 +1,6 @@
 const Initialstate = {
   Details:{},
   AllCharacters: [],
-  Details: [],
   Characters: [],
   User:[],
   StatePilots: [],

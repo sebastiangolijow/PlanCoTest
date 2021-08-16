@@ -21,12 +21,6 @@ const styleTitle = {
   margin:'15px',
 }
 
-const Div = {
-  display:'flex',
-  flexDirection:'row',
-  justifyContent:'center'
-}
-
 const styleDiv = {
   display:'grid',
   gridTemplateColumns: 'repeat(3, 1fr)'

@@ -2,7 +2,6 @@ import {Link, useHistory} from 'react-router-dom';
 
  const LinkStyle = {
     color:'#F5F5DC',
-    fontFamily:'Fantasy',
     textDecoration:'none',
     fontSize:'24px',
     border:'solid',
@@ -10,8 +9,6 @@ import {Link, useHistory} from 'react-router-dom';
     borderWidth:'1px',
     fontWeight:'50',
     fontFamily:'arial',
-    fontSize:'16px',
-    color:'#9c9c9c'
 }
 const Div = {
     border:'solid',
